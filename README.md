@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como estágiaria na área de desenvolvimento de sistemas
 - 🌱 Estudando Angular 
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/ThaisPinheiro">
