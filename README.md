@@ -1,7 +1,7 @@
 ### Olá, eu sou a Thais Pinheiro 💛
 
 - 🔭 Hoje trabalho como estágiaria na área de desenvolvimento de sistemas
-- 🌱 Estudando Angular 
+- 🌱 Estudando Node.js
 
 <div align="center">
   <a href="https://github.com/ThaisPinheiro">
