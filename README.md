@@ -1,7 +1,10 @@
 ### Olá, eu sou a Thais Pinheiro 💛
 
-- 🔭 Hoje trabalho como estágiaria na área de desenvolvimento de sistemas
-- 🌱 Estudando Node.js
+###  🔭 Estágiaria na área de desenvolvimento de sistemas. 
+
+###  :sunglasses: Atualmente trabalho com JavaScript, AngulasJS, PHP, PL/SQL, HTML e CSS com bootstrap.
+
+### 🌱 Estudando Node.js
 
 <div align="center">
   <a href="https://github.com/ThaisPinheiro">
