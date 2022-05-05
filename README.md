@@ -4,7 +4,7 @@
 
 ###  :sunglasses: Atualmente trabalho com JavaScript, AngulasJS, PHP, PL/SQL, HTML e CSS com bootstrap.
 
-### 🌱 Estudando Node.js
+### 🌱 Estudando Node.js e DevOps.
 
 <div align="center">
   <a href="https://github.com/ThaisPinheiro">
