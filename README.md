@@ -1,6 +1,6 @@
 ### Olá, eu sou a Thais Pinheiro 💛
 
-###  🔭 Estudando Node.js e conceitos DevOps.
+###  🔭 Estudando Java e conceitos DevOps.
 
 <div align="center">
   <a href="https://github.com/ThaisPinheiro">
