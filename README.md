@@ -1,8 +1,8 @@
 ### Olá, eu sou a Thais Pinheiro 💛
 
-###  🔭 Estudando Java e conceitos DevOps.
+###  Estudante Java e conceitos DevOps. 🔭
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ThaisPinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisPinheiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
