@@ -1,6 +1,6 @@
 ### Olá, eu sou a Thais Pinheiro 💛
 
-###  Estudante Java e conceitos DevOps. 🔭
+###  Programadora Java e estudante de conceitos DevOps. 🔭
 
 <div align="left">
   <a href="https://github.com/ThaisPinheiro">
