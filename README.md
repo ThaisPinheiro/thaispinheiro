@@ -1,6 +1,20 @@
-### Olá, eu sou a Thais Pinheiro 💛
+<div>
+   <img height="250em" src="https://user-images.githubusercontent.com/26317069/205188475-9700c5b6-53de-4f2d-9409-c74480890f0f.png"/>
+</div>
+ 
+##
 
-###  Programadora Java e estudante de conceitos DevOps. 🔭
+<div>
+  <p><br>Se você chegou até aqui, prazer! Sou estagiária na empresa <code class="lang-markdown"><strong>Shift:</strong> Tecnologia que pulsa</code>.</p>
+  <p>Tenho formação técnica em informática pela ETEC e atualmente estou cursando o 3º semestre(Graduação) em Informática para Negócios &nbsp&nbsp pela Fatec Rio Preto.   </p>
+  <h3>Alguns dos meus interesses são:</h3>
+  <ul>
+    <li>Programação com <code class="lang-markdown">Java</code></li>
+    <li>Conceitos <code class="lang-markdown">DevOps</code></li>
+    <li>Conveitos de <code class="lang-markdown">Gerenciamento de Projetos</code> e <code class="lang-markdown">Métodos Ageis</code></li>
+  </ul>
+  <br>
+</div>
 
 <div align="left">
   <a href="https://github.com/ThaisPinheiro">
