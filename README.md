@@ -11,7 +11,7 @@
   <ul>
     <li>Programação com <code class="lang-markdown">Java</code></li>
     <li>Conceitos <code class="lang-markdown">DevOps</code></li>
-    <li>Conveitos de <code class="lang-markdown">Gerenciamento de Projetos</code> e <code class="lang-markdown">Métodos Ageis</code></li>
+    <li>Conceitos de <code class="lang-markdown">Gerenciamento de Projetos</code> e <code class="lang-markdown">Métodos Ageis</code></li>
   </ul>
   <br>
 </div>
