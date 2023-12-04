@@ -1,6 +1,6 @@
 <div>
   <p><br>Se você chegou até aqui, prazer! Sou estagiária na empresa <code class="lang-markdown"><strong>Shift:</strong> Tecnologia que pulsa</code>.</p>
-  <p>Tenho formação técnica em informática pela ETEC e atualmente estou cursando o 3º semestre(Graduação) em Informática para Negócios pela Fatec Rio Preto.   </p>
+  <p>Tenho formação técnica em informática pela ETEC e atualmente estou cursando o 5º semestre(Graduação) em Informática para Negócios pela Fatec Rio Preto.   </p>
   <h3>Alguns dos meus interesses são:</h3>
   <ul>
     <li>Programação com <code class="lang-markdown">Java</code></li>
