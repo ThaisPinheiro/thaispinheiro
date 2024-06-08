@@ -2,8 +2,8 @@
   <h2>Sobre mim!</h2>
 </div>
 <div>
-  <p>✨Início de carreira</p>
-  <p>Técnica em informática pela ETEC Philadelpho Gouvêa Netto em 2017, iniciei minha carreira como desenvolvedora em 2021 com PHP e JavaScript, Java com Quarkus/Spring e Angular e escrita de     testes utilizando JUnit, Karma e Jasmine.</p>
+  <p>✨Estagiária com mais de um ano de esperiência</p>
+  <p>Técnica em informática pela ETEC Philadelpho Gouvêa Netto em 2017, iniciei minha carreira como desenvolvedora em 2021 com PHP e JavaScript, Java com Quarkus/Spring e Angular e escrita de testes utilizando JUnit, Karma e Jasmine.</p>
 
 <p>✨Onde estou atualmente</p>
 <p>Cursando minha graduação em Informática para Negócios pela Fatec Rio Preto, estando no último semestre. Hoje sou estagiária em desenvolvimento de software com mais de um ano de experiência.</p>
