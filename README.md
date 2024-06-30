@@ -2,15 +2,17 @@
   <h2>Sobre mim!</h2>
 </div>
 <div>
-  <p>✨Estagiária com mais de um ano de esperiência</p>
-  <p>Técnica em informática pela ETEC Philadelpho Gouvêa Netto em 2017, iniciei minha carreira como desenvolvedora em 2021 com PHP e JavaScript, Java com Quarkus/Spring e Angular e escrita de testes utilizando JUnit, Karma e Jasmine.</p>
-
-<p>✨Onde estou atualmente</p>
-<p>Cursando minha graduação em Informática para Negócios pela Fatec Rio Preto, estando no último semestre. Hoje sou estagiária em desenvolvimento de software com mais de um ano de experiência.</p>
+  <p>✨Desenvolvedora de software com mais de dois anos de esperiência</p>
+  <p>Técnica em informática e tecnóloga pela FATEC, com experiência sólida em desenvolvimento web utilizando PHP, JavaScript, Java, Quarkus, Spring e Angular. Escrita de testes unitários com JUnit, Karma e Jasmine. Familiarizada com práticas de versionamento de código, metodologias ágeis e design patterns.</p>
 
 <p>✨Conquistas</p>
 <p>Terceiro lugar no 2° Concurso de Artigos Técnicos em Português da InterSystems na 'Premiação Especialista' e a vencedora na 'Premiação da Comunidade de Desenvolvedores', sendo o artigo com mais likes da comunidade. Você pode ler meu artigo clicando no link abaixo:</p>
   <h5>IoT como apoio a métricas e monitoria de temperatura em refrigeradores de laboratórios da saúde: https://pt.community.intersystems.com/post/tecnologias-intersystems-e-iot-como-apoio-m%C3%A9tricas-e-monitoramento-de-temperatura-em</h5>
+
+<p>Nota máxima na defesa do Trabalho de Graduação com o título <strong>"IoT como apoio a métricas e monitoramento de temperatura em refrigeradores para pequenas empresas"</strong> .</p>
+
+<p>✨Meus hobbies</p>
+<p>Sou apaixonada por livros de todos os gêneros, jogos e momentos com os amigos. Além disso, gosto de fazer lives no Twitch, compartilhando minhas experiências de forma descontraída.</p>
 </div>
 
 <div>
