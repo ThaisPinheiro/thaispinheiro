@@ -2,7 +2,7 @@
   <h2>Sobre mim!</h2>
 </div>
 <div>
-  <p>✨Desenvolvedora de software com mais de dois anos de esperiência</p>
+  <p>✨Desenvolvedora de software com mais de dois anos de experiência</p>
   <p>Técnica em informática e tecnóloga pela FATEC, com experiência sólida em desenvolvimento web utilizando PHP, JavaScript, Java, Quarkus, Spring e Angular. Escrita de testes unitários com JUnit, Karma e Jasmine. Familiarizada com práticas de versionamento de código, metodologias ágeis e design patterns.</p>
 
 <p>✨Conquistas</p>
