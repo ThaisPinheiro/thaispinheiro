@@ -9,12 +9,6 @@
 <p>Terceiro lugar no 2° Concurso de Artigos Técnicos em Português da InterSystems na 'Premiação Especialista' e a vencedora na 'Premiação da Comunidade de Desenvolvedores', sendo o artigo com mais likes da comunidade. Você pode ler meu artigo clicando no link abaixo:</p>
   <h5>IoT como apoio a métricas e monitoria de temperatura em refrigeradores de laboratórios da saúde: https://pt.community.intersystems.com/post/tecnologias-intersystems-e-iot-como-apoio-m%C3%A9tricas-e-monitoramento-de-temperatura-em</h5>
 
-<p>Nota máxima na defesa do Trabalho de Graduação com o título <strong>"IoT como apoio a métricas e monitoramento de temperatura em refrigeradores para pequenas empresas"</strong> .</p>
-
-<p>✨Meus hobbies</p>
-<p>Sou apaixonada por livros de todos os gêneros, jogos e momentos com os amigos. Além disso, gosto de fazer lives no Twitch, compartilhando minhas experiências de forma descontraída.</p>
-</div>
-
 <div>
   <h3>Alguns dos meus interesses são:</h3>
   <ul>
