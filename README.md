@@ -2,18 +2,30 @@
   <h2>Sobre mim!</h2>
 </div>
 <div>
-  <p>✨Desenvolvedora de software com mais de dois anos de experiência</p>
-  <p>Técnica em informática e tecnóloga pela FATEC, com experiência sólida em desenvolvimento web utilizando PHP, JavaScript, Java, Quarkus, Spring e Angular. Escrita de testes unitários com JUnit, Karma e Jasmine. Familiarizada com práticas de versionamento de código, metodologias ágeis e design patterns.</p>
-
-<p>✨Conquistas</p>
-<p>Terceiro lugar no 2° Concurso de Artigos Técnicos em Português da InterSystems na 'Premiação Especialista' e a vencedora na 'Premiação da Comunidade de Desenvolvedores', sendo o artigo com mais likes da comunidade. Você pode ler meu artigo clicando no link abaixo:</p>
-  <h5>IoT como apoio a métricas e monitoria de temperatura em refrigeradores de laboratórios da saúde: https://pt.community.intersystems.com/post/tecnologias-intersystems-e-iot-como-apoio-m%C3%A9tricas-e-monitoramento-de-temperatura-em</h5>
-
+  <p>💻Desenvolvedora de software com mais de dois anos de experiência.</p>
+  <p>Técnica em informática e graduada pela FATEC, com experiência em desenvolvimento de software utilizando Java, Quarkus, Spring, PHP, JavaScript e Angular. Escrita de testes unitários com JUnit, Karma e Jasmine. Familiarizada com práticas de versionamento de código, metodologias ágeis e design patterns.</p>
+  
+##
 <div>
-  <h3>Alguns dos meus interesses são:</h3>
+  <h3>🏆Destaques Profissionais</h3>
+  <p>📄 Publicação na Revista de Ciências e Tecnologia Fatec Lins.</p>
+  <p>🥉 3º lugar no 2º Concurso de Artigos Técnicos em Português da InterSystems, na 'Premiação Especialista', e vencedora da 'Premiação da Comunidade de Desenvolvedores', com o artigo mais curtido da comunidade.</p>
+  <p>🏅 Melhor Projeto de Graduação.</p>
+</div>
+
+##
+<div>
+  <h3>🌱Paixões e hobbies</h3>
+  <p>Sou apaixonada por leitura, apreciando livros de todos os gêneros. Também adoro jogos, pratico judô, que me ensina disciplina e foco, e gosto de escrever. Valorizo ainda momentos de descontração com amigos.</p>
+</div>
+
+##
+<div>
+  <h3>Alguns dos meus interesses em tecnologia:</h3>
   <ul>
     <li>Programação back-end com <code class="lang-markdown">Java | Node.js</code></li>
-    <li>Conceitos de <code class="lang-markdown">Gerenciamento de Projetos</code> e <code class="lang-markdown">Métodos Ageis</code></li>
+    <li>Conceitos de  <code class="lang-markdown">Microsserviços e Mensageria</code></li>
+    <li>Conceitos de <code class="lang-markdown">Gerenciamento de Projetos e Métodos Ageis</code></li>
   </ul>
   <br>
 </div>
