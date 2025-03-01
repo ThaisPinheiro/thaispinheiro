@@ -8,15 +8,8 @@
 ##
 <div>
   <h3>🏆Destaques Profissionais</h3>
-  <p>📄 Publicação na Revista de Ciências e Tecnologia Fatec Lins.</p>
-  <p>🥉 3º lugar no 2º Concurso de Artigos Técnicos em Português da InterSystems, na 'Premiação Especialista', e vencedora da 'Premiação da Comunidade de Desenvolvedores', com o artigo mais curtido da comunidade.</p>
-  <p>🏅 Melhor Projeto de Graduação.</p>
-</div>
-
-##
-<div>
-  <h3>🌱Paixões e hobbies</h3>
-  <p>Sou apaixonada por leitura, apreciando livros de todos os gêneros. Também adoro jogos, pratico judô, que me ensina disciplina e foco, e gosto de escrever. Valorizo ainda momentos de descontração com amigos.</p>
+  <p> Publicação na Revista de Ciências e Tecnologia Fatec Lins.</p>
+  <p> 3º lugar no 2º Concurso de Artigos Técnicos em Português da InterSystems, na 'Premiação Especialista', e vencedora da 'Premiação da Comunidade de Desenvolvedores', com o artigo mais curtido da comunidade.</p>
 </div>
 
 ##
@@ -25,7 +18,7 @@
   <ul>
     <li>Programação back-end com <code class="lang-markdown">Java | Node.js</code></li>
     <li>Conceitos de  <code class="lang-markdown">Microsserviços e Mensageria</code></li>
-    <li>Conceitos de <code class="lang-markdown">Gerenciamento de Projetos e Métodos Ageis</code></li>
+    <li>Conceitos de <code class="lang-markdown">Gerenciamento de Projetos e Metodologias Ageis</code></li>
   </ul>
   <br>
 </div>
